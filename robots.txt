@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caokoahej.arthur.ru/sitemap.xml
